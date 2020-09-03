@@ -1,3 +1,3 @@
 # JeffreyHuang0714.github.io
-Dialer Assignment
-<a href="Dialer.html">page 1</a>
+GUI Prototyping Assignment
+<a href="Dialer.html">Click Here</a>
